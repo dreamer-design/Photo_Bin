@@ -1,13 +1,10 @@
 # my common
 venv/
-*.png
-*.jpg
 *.sh
 *.txt
 nbproject/
 bak/
-!images_resized/*.jpg
-!/images_rembg/*.jpg
+images_binned/
 
 ## python
 
