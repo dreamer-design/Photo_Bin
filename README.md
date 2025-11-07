@@ -1,3 +1,19 @@
+#### goal
+given a directory of photographs taken remove obvious images which have quality issues such as:  
+subject no in frame  
+subject blurry  
+eyes are not sharp  
+...
+
+#### todo next:
+collect more data  
+design classifier model(s)
+mark files to be moved/deleted and have a confirmation dialog
+helper scripts to aid file i/o develpoment
+design "app"
+even just upgrade this readme
+
+#### done:  
 image resized to optimise feature extraction 
 the images go through a pipeline  
  - bin the files into subject folders: bin.py  
