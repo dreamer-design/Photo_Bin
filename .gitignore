@@ -6,7 +6,7 @@ venv/
 *.txt
 nbproject/
 bak/
-!images_resized/
+!images_resized/*.jpg
 
 ## python
 
