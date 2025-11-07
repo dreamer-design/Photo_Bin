@@ -1,0 +1,14 @@
+{
+  "ROOT_DIR": "./images_rembg",
+  "GAUSSIAN_BLUR_KERNEL": [
+    9,
+    9
+  ],
+  "CANNY_LOW": 0,
+  "CANNY_HIGH": 1,
+  "MORPH_KERNEL_SIZE": [
+    9,
+    9
+  ],
+  "MORPH_CLOSING_ITERATIONS": 3
+}
